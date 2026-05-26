@@ -109,17 +109,6 @@ Anomalies are identified using:
 
 ---
 
-## 📷 6. Sample Outputs
-
-> *(Add screenshots here in your repo)*
-
-- Event distribution graphs  
-- Anomaly highlight plots  
-- Time-series trend charts  
-- Dashboard interface  
-
----
-
 ## 📌 7. Results
 
 The system successfully:
@@ -152,5 +141,5 @@ EventFlow demonstrates a structured approach to scientific event stream analysis
 **Muhammad Anas**  
 BSc Computer Science (Data Analysis)  
 
-- GitHub: https://github.com/Anas-git007  
+- Streamlit: https://eventflow-app.streamlit.app/ 
 - LinkedIn: https://www.linkedin.com/in/muhammad-anas-asif007  
